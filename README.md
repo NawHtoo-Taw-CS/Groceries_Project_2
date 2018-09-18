@@ -9,4 +9,4 @@
 #### 4. The next step to the algorithm is to choose product shipping options, so the customer can choose these options which is either mail to a mail post, delivery to front door or a pickup. The speed of the delivery will differ the price so the faster the higher price. The customer will now receive their virtual receipt. In the receipt the price date and time will be on it so the customer knows whens its the product is at their door step or mail.
 
 #### 5. After the whole algorithm is done the staffs must ready the product for shipping and check if all the information about shipping is correct, The staffs must double check after the A.I algorithm. The adress of the customer, the name of the customer is now checked and finally the product is shipped to the customer must wait for it to be delivered.
-##### - the staffs must double check after the A.I because the A.I's are not perfect so the A.I will make mistakes, and that is why the staffs must double check
+###### - the staffs must double check after the A.I because the A.I's are not perfect so the A.I will make mistakes, and that is why the staffs must double check
