@@ -1,7 +1,7 @@
 # Groceries_Project_2
-<<<<<<< HEAD
+
 # 1. The first step of a groceries algorithm is for the customer to put an input variable into their virtual online shopping cart
-=======
+
 #### 1. The customer must put name-able viriables into their online virtual shopping cart. The customer will have to put valid product names into the shopping cart, so if there is none of the product the customer would like to buy, they can send us a email saying they would like this product to be sold.
 ###### - There is an error if the customer puts an invalid viriable into the customers shopping cart, this is to prevent bugs and issues happening in the algorithm
 
@@ -16,4 +16,4 @@
 
 #### 5. After the whole algorithm is done the staffs must ready the product for shipping and check if all the information about shipping is correct, The staffs must double check after the A.I algorithm. The adress of the customer, the name of the customer is now checked and finally the product is shipped to the customer must wait for it to be delivered.
 ###### - The staffs must double check after the A.I because the A.I's are not perfect so the A.I will make mistakes, and that is why the staffs must double check
->>>>>>> 863652b66ed7cacc32210467d6ae2aa074be0691
+
