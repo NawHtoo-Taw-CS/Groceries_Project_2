@@ -1,3 +1,13 @@
+.markdown-preview.markdown-preview {
+ &, h4, h5, h6 {
+   font-size: font-size;
+  }
+
+  h1 { font-size: font-size; }
+  h2 { font-size: font-size; }
+  h3 { font-size: font-size; }
+}
+
 # Groceries_Project_2
 h4 1. The customer must put name-able viriables into their online virtual shopping cart. The customer will have to put valid product names into the shopping cart, so if there is none of the product the customer would like to buy, they can send us a email saying they would like this product to be sold.
 ######
